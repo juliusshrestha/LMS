@@ -1,0 +1,75 @@
+[
+	{
+		"id": "1",
+		"icon": "images/svg/linea/linea-basic-lightbulb.svg",
+		"title": "人工知能",
+		"desc": "当社では、、AIを使用して、イノベーションを推進し、技術的な解決策を見つけ、AIルートを制定することで、世界をよりスマートな場所にすることに重点を置いています。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "2",
+		"icon": "images/svg/linea/linea-ecommerce-graph3.svg",
+		"title": "デジタル変換",
+		"desc": "デジタルトランスフォーメーションを通じて、現代のデジタル世界の最新テクノロジーに触れ、変化する世代の一部になりましょう。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "3",
+		"icon": "images/svg/linea/linea-software-transform-bezier.svg",
+		"title": "データサイエンス",
+		"desc": "データの真の価値を発見し、日々の機能にインテリジェンスを注入することで、将来の結果を予測するのに役立つ有意義な洞察を得るお手伝いをします。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "4",
+		"icon": "images/svg/linea/linea-basic-elaboration-cloud-upload.svg",
+		"title": "クラウドコンピューティング",
+		"desc": "サーバのセットアップから構成、セキュリティと管理、お客様の会社の成長に必要なすべての面倒を見ます。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "5",
+		
+		"icon": "images/svg/linea/linea-basic-webpage-multiple.svg",
+		"title": "ウェブ開発",
+		"desc": "私たちは、あなたがインターネット市場であなたのビジネスのイメージを再発見するのを助ける高品質のソフトウェアとウェブサービスを提供します。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "6",
+		"icon": "images/svg/linea/linea-basic-elaboration-smartphone-picture.svg",
+		"title": "モバイルアプリ",
+		"desc": "私たちはあらゆる種類のモバイルアプリケーションを開発し、常に最新のトレンドに挑戦します。 私たちと一緒に更新してください。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "7",
+		"icon": "images/svg/linea/linea-ecommerce-bag-check.svg",
+		"title": "Eコマース",
+		"desc": "これはeコマースの世界です。 私たちは、現代のデジタル世界を再考し、再発明し、新しい方向性を示します。 あなたの長期的なビジネスと長期的なセキュリティのために私たちを信頼してください。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "8",
+		"icon": "images/svg/linea/linea-basic-webpage.svg",
+		"title": "ウェブスクレイピング ",
+		"desc": "企業が新しいビジネス問題への答えを絶えず探している世界では、データをふるいにかけて意味のある洞察を生み出すことで、最高のエンタープライズWebスクレイピングソリューションを提供します。",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "9",
+		"icon": "images/svg/linea/linea-basic-server-cloud.svg",
+		"title": "ウェブホスティング",
+		"desc": "ウェブサイトをオンラインにするために必要なのはウェブホスティングだけです。 ウェブホストがなければ、実際にウェブサイトにアクセスする方法はありません。弊ウェブホストサービスであなたのウェブサイトを完成させましょう。",
+		"pageLink": "Learn More",
+		"link": "service"
+	}
+]

@@ -1,0 +1,220 @@
+{
+  "language": "Language",
+  "english": "English",
+  "japanese": "Japanese",
+
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "service": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blogs",
+    "career": "Career",
+    "contact": "Contact Us",
+    "notice": "Notice",
+    "team": "Team",
+    "faq": "FAQs"
+  },
+
+  "s1": {
+    "p1": "Way to go, we are a Leading IT company who thrive on pushing the boundaries of our client's expectations and our own capabilities.",
+    "btn1": "Get Started",
+    "btn2": "Learn More"
+  },
+
+  "s2": {
+    "p1": "See The World With Our Mission ",
+    "p2": "Any time, Any place in the future to provide most elegant and economical solutions for business problems",
+    "p3": "We Are An Accelarator",
+    "p4": "Change The World With Our Vision",
+    "p5": "To become a major IT service provider and a leading performer, with motive to provide quality software development solutions and new technological heights",
+
+    "btn1": "About Us"
+  },
+
+  "s3": {
+    "p1": " Services We Provide",
+    "p2": "We are the best and a smart team of leading digital practitioners you can get. "
+  },
+
+  "s4": {
+    "p1": "Your success is our success",
+    "p2": "Web/Mobile App design and develop, Data Science & AI solutions with us"
+  },
+
+  "s5": {
+    "p1": "Our Partners",
+    "p2": "One goal, one passion - we are a strong network to work with."
+  },
+
+  "s6": {
+    "p1": "Portfolios",
+    "p2": "Selected Works.",
+    "p3": "All",
+    "p4": "App",
+    "p5": "Development",
+    "p6": "software",
+    "p7": "Data Science",
+    "p8": "Web/Mobile App Development",
+    "p9": "Strategy"
+  },
+
+  "s7": {
+    "p1": "People behind the screen",
+    "p2": "Get your company heading in the right direction with our Team"
+  },
+
+  "s8": {
+    "p1": "Let’s find out how to work together",
+    "p2": "Ready to start your project? The contact information collected through this form will only be used to send a response to your inquiry.",
+    "p3": "Let us know about your fantastic idea, and we will contact you to discuss how we can assist you in making it a reality.",
+    "p4": "Get In Touch With Us",
+
+    "btn1": "Get Started"
+  },
+
+  "s9": {
+    "p1": "Welcome to Our Blog",
+    "p2": "Our team of designers, developers and creatives are perfectionists who love what they do",
+
+    "p3": "No Blogs available right now",
+    "p4": "Find All Our Latest News, Insights, And Events",
+    "p5": "Read More",
+    "p6": "View Project"
+  },
+
+  "s10": {
+    "p1": "Let's Work Together",
+    "p2": "Let us know about your fantastic idea",
+    "p3": "Our Location",
+    "p4": "Shantinagar, Kathmandu",
+    "p5": "Give us a Call",
+    "p6": "Support",
+    "p8": " Let’s talk about your project",
+    "p9": "We have made it easy for clients to reach us and get their solutions weaved",
+    "p10": "Your Name",
+    "p11": "Email",
+    "p12": "Subject",
+    "p13": "Message",
+    "p14": "Message is required",
+    "p15": "Name is required",
+    "p16": "Email is required",
+    "p17": "invalid email address",
+    "p18": "Subject is required",
+    "p19": "Loading...",
+    "p20": "Thank you for your inquiry. We will contact you soon.",
+    "p21": "submit",
+    "p22": "phone number is required",
+    "p23": "Phone Number",
+    "p24": "Address",
+    "p25": "Address is required",
+    "p26": "Apply",
+    "p27": "Something went wrong",
+    "p28": "Thank you for your interest.",
+
+    "btn1": "Get a Free Consultation"
+  },
+  "notice": {
+    "p1": "Recent Notices",
+    "p2": "Notices"
+  },
+  "faq": {
+    "p1": "Frequently asked questions",
+    "p2": "You’ve got questions and </br>we’ve got answers"
+  },
+  "footer": {
+    "p1": "Services",
+    "p2": "Artificial Intelligence",
+    "p3": "Digital Transformation",
+    "p4": "Web Development",
+    "p5": "Cloud Computing",
+    "p6": "About",
+    "p7": "Our Story",
+    "p8": "Our Partners",
+    "p9": "Contact",
+    "p10": "Support",
+    "p11": "FAQs",
+    "p12": "Team"
+  },
+
+  "services": {
+    "p1": "We Provide Services As Per Your Requirements",
+    "p2": "Idea that inspire, engage and excite",
+
+    "01_t": "Artificial Intelligence",
+    "01_p": " We are focused on using AI to make the world a smarter place by pushing innovations, finding technological solutions, and enacting AI routes.",
+
+    "02_t": "Digital Transformation",
+    "02_p": "Go through our digital transformation to give your vision the touch of the latest technology to exist in the world of modern digitalization and be part of a changing generation.",
+
+    "03_t": "Data Science",
+    "03_p": "We help you discover the true value of data to obtain meaningful insights that would help you anticipate future outcomes by infusing intelligence into your day to day functionality.",
+
+    "04_t": "Cloud Computing",
+    "04_p": "We take care of everything from setting up your server to configuring it, securing it, and managing it so you can sit back and enjoy the results.",
+
+    "05_t": "Web Development",
+    "05_p": "We provide quality software and web services that help you rediscover your business' image in the internet marketplace.",
+
+    "06_t": "Mobile App",
+    "06_p": "We develop all kinds of mobile applications, always upfront to challenge the latest trends. Get updated with us.",
+
+    "07_t": "E-Commerce",
+    "07_p": "It's a world of e-commerce. We reimagine, reinvent and give new direction to the modern digital world. Trust us for your long run business and security for the long run.",
+
+    "08_t": "Web Scrapping",
+    "08_p": "We provide best-in-class enterprise web scraping solutions that can sift through data to create meaningful insights in a world where businesses are continuously looking for answers to new business problems.",
+
+    "09_t": "Web Hosting",
+    "09_p": "To get a website online what you need is web hosting, without a web host there is no way out to actually access the website. Get your website done with our web host services- as good as it gets!",
+
+    "p3": "Innovative & Creative Ideas",
+    "p4": "We Develop Products That Are Reliable",
+    "p5": "Our goal is to make the process easier for you. We provide our clients with the right tools for AI, digital transformation, web development, hosting, e-commerce and security"
+  },
+
+  "about": {
+    "p1": "Get To Know Asha Inc",
+    "p2": "Message from CEO",
+    "p3": "Our Story",
+    "p4": "Founded in 2019 with a sole purpose of delivering IT solutions to our clients",
+    "p5": "Building Amazing Technologies, with Passion!",
+    "p6": "Working With Japanese Companies & Startups",
+    "p7": "Our team of developers are perfectionists who love what they do – What we do represents our technical, versatile, and integrated method as well as we assist our customers in achieving their goals.",
+    "p8": "Let's talk about your project and see how we can work together ",
+    "p9": "As a leading IT company, we thrive on exceeding our clients' standards by transforming their concepts into beautiful products.",
+    "p10": "Mr. Sharad Rai holds a Masters’ degree in international development from the University of Tokyo. Currently, he is pursuing PhD in Sustainability Science at the University of Tokyo. He started his career at SoftBank Corporation where he was involved in the new business development department working with Japanese and global startups. Born in a remote village near Mt. Everest in Nepal, he received government scholarship to study in one of the finest schools in the country when he was 10 years old. This changed his life. Therefore, in order to give back to his beloved country, he established two schools in his community where the future of more than 500 kids is being shaped today. He has also successfully established non-profit organizations in Nepal and Japan that have touched the lives of more than 20,000 students across Nepal. With a vision to contribute to Nepal’s economic growth by 1% in the future, he has built asha & company. Nepal being a landlocked country, traditional fields of industrialization such as manufacturing are not feasible.Thus, the country’s biggest strength is its people and their intelligence. By nurturing some of the top notch talents in Nepal, he aims to create a whole new research and consulting industry in the country. He currently divides his time between Tokyo and Nepal.",
+    "p11": "With a vision to contribute to Nepal’s economic growth by 1% in the future, he has built asha & company. Nepal being a landlocked country, traditional fields of industrialization such as manufacturing are not feasible. Thus, the country’s biggest strength is its people and their intelligence. By nurturing some of the top notch talents in Nepal, he aims to create a whole new research and consulting industry in the country. He currently divides his time between Tokyo and Nepal.",
+    "p12": "Mr. Sharad Chandra Rai",
+    "btn1": "See Our Work",
+    "btn2": "Contact Us",
+    "btn3": "Know Our Team"
+  },
+
+  "portfolio": {
+    "p1": "Crafting Effective Technology",
+    "p2": "Works We Have Done",
+    "p3": "ABOUT THE PROJECT",
+    "p4": "Date",
+    "p5": "Client"
+  },
+
+  "career": {
+    "p1": "Career At Asha Inc",
+    "p2": "Join Our Team",
+    "p3": "Create clever things with us!",
+    "p4": "Join the team to learn and grow in a fun and collaborative atmosphere. At Asha Inc, we are constantly working to ensure that our services are of the highest possible quality and reliability. We're always eager to meet new talent, so take a look at our open positions.",
+    "p5": "WE ARE HIRING",
+    "p6": "DROP YOUR RESUME",
+    "p7": "WE ARE NOT HIRING",
+    "p8": "Currently we are not hiring , still you can drop your resume.",
+    "p9": "Upload your CV here",
+    "p10": "Please upload pdf/docx file only.",
+    "p11": "Max size is less than 1 MB."
+  },
+  "sidebar": {
+    "p1": "Categories",
+    "p2": "Similar Posts",
+    "p3": "No Similar Posts"
+  }
+}

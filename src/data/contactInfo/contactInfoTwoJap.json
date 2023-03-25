@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "icon": "images/svg/linea/linea-basic-map.svg",
+    "title": "住所",
+    "info": " シャンティナガル、カトマンズ"
+    },
+    {
+    "id": "2",
+    "icon": "images/svg/linea/linea-basic-message-txt.svg",
+    "title": "お電話ください",
+    "info": "01-5905279"
+    },
+    {
+    "id": "3",
+    "icon": "images/svg/linea/linea-basic-mail-open-text.svg",
+    "title": "サポート",
+    "info": "asha.inc10@gmail.com"
+    }
+]

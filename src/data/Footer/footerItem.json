@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Services",
+    "list": [
+      {
+        "id": 1,
+        "text": "Artificial Inteligence",
+        "url": "/service"
+      },
+      {
+        "id": 2,
+        "text": "Digital Transformation",
+        "url": "/service"
+      },
+      {
+        "id": 3,
+        "text": "Web Development",
+        "url": "/service"
+      },
+      {
+        "id": 4,
+        "text": "Cloud Computing",
+        "url": "/service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "About",
+    "list": [
+      {
+        "id": 1,
+        "text": "Our Story",
+        "url": "/about"
+      },
+      {
+        "id": 2,
+        "text": "Contact Us",
+        "url": "/contact"
+      },
+      {
+        "id": 3,
+        "text": "Our Team",
+        "url": "/team-details"
+      },
+      {
+        "id": 4,
+        "text": "Our Partners",
+        "url": "/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Contact",
+    "list": [
+      {
+        "id": 1,
+        "text": "Notice",
+        "url": "/notice"
+      },
+      {
+        "id": 2,
+        "text": "Support",
+        "url": "/contact"
+      },
+      {
+        "id": 3,
+        "text": "FAQs",
+        "url": "/faq"
+      }
+    ]
+  }
+]

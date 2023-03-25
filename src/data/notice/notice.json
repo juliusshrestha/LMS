@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "images/team/team-1.jpg",
+        "title": "Dashain Holiday",
+        "description": "Project manager"
+    },
+    {
+        "id": 2,
+        "image": "images/team/team-2.jpg",
+        "title": "Tihar Holiday",
+        "description": "Marketing"
+    },
+    {
+        "id": 3,
+        "image": "images/team/team-3.jpg",
+        "title": "Christmas",
+        "description": "Financial Services"
+    },
+    {
+        "id": 4,
+        "image": "images/team/team-4.jpg",
+        "title": "New Year",
+        "description": "Project manager"
+    }
+]

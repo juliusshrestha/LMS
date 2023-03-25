@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "image": "images/brand/client-logo-05.png",
+    "link": "https://suprieve.com/"
+  },
+  {
+    "id": 1,
+    "image": "images/brand/client-logo-02.png",
+    "link": "https://www.kansai-u.ac.jp/ja/"
+  },
+  {
+    "id": 2,
+    "image": "images/brand/daiso.png",
+    "link": "https://www.daiso-net.co.jp/"
+  },
+  {
+    "id": 3,
+    "image": "images/brand/client-logo-04.gif",
+    "link": "https://www.howto-osaka.com/en/"
+  },
+  {
+    "id": 4,
+    "image": "images/brand/nri.jpg",
+    "link": "https://www.nomura.com/"
+  }
+]

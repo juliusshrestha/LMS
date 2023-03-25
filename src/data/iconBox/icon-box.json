@@ -1,0 +1,75 @@
+[
+	{
+		"id": "1",
+		"icon": "images/svg/linea/linea-basic-lightbulb.svg",
+		"title": "Artificial Intelligence",
+		"desc": "We are focused on using AI to make the world a smarter place by pushing innovations, finding technological solutions, and enacting AI routes.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "2",
+		"icon": "images/svg/linea/linea-ecommerce-graph3.svg",
+		"title": "Digital Transformation",
+		"desc": "Go through our digital transformation to give your vision the touch of the latest technology to exist in the world of modern digitalization and be part of a changing generation.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "3",
+		"icon": "images/svg/linea/linea-software-transform-bezier.svg",
+		"title": "Data Science",
+		"desc": "We help you discover the true value of data to obtain meaningful insights that would help you anticipate future outcomes by infusing intelligence into your day to day functionality.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "4",
+		"icon": "images/svg/linea/linea-basic-elaboration-cloud-upload.svg",
+		"title": "Cloud Computing",
+		"desc": "Our cloud service helps to make the world a better place as we handle everything required for your company’s growth. We take care of everything from setting up your server to configuring it, securing it, and managing it so you can sit back and enjoy the results.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "5",
+
+		"icon": "images/svg/linea/linea-basic-webpage-multiple.svg",
+		"title": "Web Development",
+		"desc": "We provide quality software and web services that help you rediscover your business' image in the internet marketplace.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "6",
+		"icon": "images/svg/linea/linea-basic-elaboration-smartphone-picture.svg",
+		"title": "Mobile App",
+		"desc": "We develop all kinds of mobile applications, always upfront to challenge the latest trends. Get updated with us.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "7",
+		"icon": "images/svg/linea/linea-ecommerce-bag-check.svg",
+		"title": "E-commerce",
+		"desc": "It's a world of e-commerce. We reimagine, reinvent and give new direction to the modern digital world. Trust us for your long run business and security for long run.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "8",
+		"icon": "images/svg/linea/linea-basic-webpage.svg",
+		"title": "Web Scraping",
+		"desc": "We provide best-in-class enterprise web scraping solutions that can sift through data to create meaningful insights in a world where businesses are continuously looking for answers to new business problems.",
+		"pageLink": "Learn More",
+		"link": "service"
+	},
+	{
+		"id": "9",
+		"icon": "images/svg/linea/linea-basic-server-cloud.svg",
+		"title": "Web Hosting",
+		"desc": "To get a website online what you need is web hosting, without a web host there is no way out to actually access the website. Get your website done with our web host services- as good as it gets!",
+		"pageLink": "Learn More",
+		"link": "service"
+	}
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "サービス",
+    "list": [
+      {
+        "id": 1,
+        "text": "人工知能",
+        "url": "/service"
+      },
+      {
+        "id": 2,
+        "text": "デジタルトランスフォーメーション",
+        "url": "/service"
+      },
+      {
+        "id": 3,
+        "text": "ウェブ開発",
+        "url": "/service"
+      },
+      {
+        "id": 4,
+        "text": "クラウドコンピューティング",
+        "url": "/service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "企業について",
+    "list": [
+      {
+        "id": 1,
+        "text": "私たちの物語",
+        "url": "/about"
+      },
+      {
+        "id": 2,
+        "text": "お問い合わせ",
+        "url": "/contact"
+      },
+      {
+        "id": 3,
+        "text": "チーム紹介",
+        "url": "/team-details"
+      },
+      {
+        "id": 4,
+        "text": "私たちのパートナー",
+        "url": "/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "お問い合わせ",
+    "list": [
+      {
+        "id": 1,
+        "text": "お知らせ",
+        "url": "/notice"
+      },
+      {
+        "id": 2,
+        "text": "サポート",
+        "url": "/contact"
+      },
+      {
+        "id": 3,
+        "text": "よくある質問",
+        "url": "/faq"
+      }
+    ]
+  }
+]

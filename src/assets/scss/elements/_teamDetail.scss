@@ -1,0 +1,87 @@
+.teamdetails {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  padding: 25px;
+  text-align: center;
+}
+.teamInfo {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.tcontainer {
+  height: 250px;
+  width: 200px;
+  overflow: hidden;
+  margin: 0 auto;
+  border-radius: 5px;
+  transition: all 0.3 ease-in-out;
+  background: linear-gradient(45deg, #105b91, #19459d);
+}
+
+.tcontainer .twrapper img {
+  position: relative;
+  z-index: 20;
+  border-radius: 50%;
+  display: block;
+  height: 150px;
+  width: 150px;
+  border: 5px solid #fff;
+  object-fit: cover;
+  margin: 20px auto;
+}
+
+.twrapper .ttitle {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 300;
+  padding: 5px;
+  line-height: 10px;
+}
+.twrapper .tplace {
+  color: #fff;
+  font-size: 10px;
+  font-weight: 300;
+  margin: 10px 0;
+  line-height: 0px;
+}
+.tcontent {
+  color: #fff;
+  font-size: 10px;
+  margin-top: 15px;
+  padding: 1px 20px 10px 20px !important;
+  height: 175px;
+  text-align: justify;
+  text-justify: distribute;
+}
+
+.tcontainer .icons {
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 10px;
+  list-style: none;
+  padding: 5px;
+}
+.tcontainer .icons li {
+  height: 30px;
+  width: 30px;
+
+  margin: 5px 0;
+}
+.tcontainer .icons li a {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  background: #fff;
+  display: block;
+  line-height: 30px;
+  transition: all 0.3s;
+}
+.tcontainer .icons li a:hover {
+  transform: scale(0.9);
+}
