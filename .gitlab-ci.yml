@@ -1,0 +1,45 @@
+stages:
+  # - build
+  - deploy
+
+# build:
+#   stage: build
+#   image: alpine
+#   before_script:
+#     - apk add zip
+#   script:
+#     - zip -r index.zip index.html
+#   artifacts:
+#     paths:
+#       - index.zip 
+
+deploy:
+  stage: deploy
+  image: alpine
+
+  before_script:
+    - apk add openssh-client
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -  #EC2 SSH Key generated with (ssh keygen in EC2)
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+  script: 
+    - echo starting connection
+    # ssh -o StrictHostKeyChecking=no -p 22 (Connect section SSH wala link) 'Linux command'
+    #(The folder must have permission for chmod 777 (Directory name))
+    # - ssh -o StrictHostKeyChecking=no -p 22 ubuntu@ec2-3-6-219-33.ap-south-1.compute.amazonaws.com ' cd /home/ubuntu/home; git pull origin master'
+    - ssh -o StrictHostKeyChecking=no -p 22 ubuntu@ec2-3-6-219-33.ap-south-1.compute.amazonaws.com
+    - echo Connected
+    # - ssh -o StrictHostKeyChecking=no -p 22 ubuntu@ec2-3-6-219-33.ap-south-1.compute.amazonaws.com 'cd /home/ubuntu/home; git pull origin demo-prototype; sudo systemctl restart apache2'
+    # - echo Deployed Successfully
+
+    # - ssh -o StrictHostKeyChecking=no -p 22 ubuntu@ec2-13-233-199-3.ap-south-1.compute.amazonaws.com 'cd /var/www; git clone https://gitlab.com/smilekison/deploy-now.git; mv deploy-now html'
+
+    # - ssh -o StrictHostKeyChecking=no -p 22 ubuntu@ec2-13-233-199-3.ap-south-1.compute.amazonaws.com 'git clone https://gitlab.com/smilekison/deploy-now.git'
+    # - ssh -o StrictHostKeyChecking=no -p 22 ubuntu@ec2-13-233-199-3.ap-south-1.compute.amazonaws.com 'rm -rf /var/www/html/*'
+    # - echo done1
+    # - scp -o StrictHostKeyChecking=no index.zip ubuntu@ec2-13-233-199-3.ap-south-1.compute.amazonaws.com:/var/www/html
+    # - echo done2
+    # - ssh -o StrictHostKeyChecking=no -p 22 ubuntu@ec2-13-233-199-3.ap-south-1.compute.amazonaws.com 'unzip /var/www/html/index.zip -d /var/www/html'
+    # - scp -r . ubuntu@ec2-13-233-199-3.ap-south-1.compute.amazonaws.com:/var/www **
+    # - echo overall done
